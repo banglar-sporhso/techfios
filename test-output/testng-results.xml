@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8225" started-at="2021-02-18T15:38:46 EST" finished-at="2021-02-18T15:38:55 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8225" started-at="2021-02-18T15:38:46 EST" finished-at="2021-02-18T15:38:55 EST">
+      <class name="veriousConcept.BrowserSetup">
+        <test-method status="PASS" signature="readconfig()[pri:0, instance:veriousConcept.BrowserSetup@6c49835d]" name="readconfig" is-config="true" duration-ms="9" started-at="2021-02-18T15:38:46 EST" finished-at="2021-02-18T15:38:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readconfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:veriousConcept.BrowserSetup@6c49835d]" name="init" is-config="true" duration-ms="5810" started-at="2021-02-18T15:38:46 EST" finished-at="2021-02-18T15:38:52 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:veriousConcept.BrowserSetup@6c49835d]" name="logIn" duration-ms="1691" started-at="2021-02-18T15:38:52 EST" finished-at="2021-02-18T15:38:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:veriousConcept.BrowserSetup@6c49835d]" name="teardown" is-config="true" duration-ms="681" started-at="2021-02-18T15:38:54 EST" finished-at="2021-02-18T15:38:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- veriousConcept.BrowserSetup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
